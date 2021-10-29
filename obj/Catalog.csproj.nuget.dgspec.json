@@ -14,7 +14,7 @@
         "outputPath": "/Users/lawrencenarh-lawson/Documents/Projects/Catalog/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/lawrencenarh-lawson/.nuget/NuGet/NuGet.Config"
+          "/Users/lawrencenarh-lawson/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
         }
       }
     }
