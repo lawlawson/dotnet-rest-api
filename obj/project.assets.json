@@ -205,7 +205,7 @@
       "outputPath": "/Users/lawrencenarh-lawson/Documents/Projects/Catalog/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/lawrencenarh-lawson/.config/NuGet/NuGet.Config"
+        "/Users/lawrencenarh-lawson/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
